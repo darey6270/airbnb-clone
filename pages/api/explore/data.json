@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/images/london.webp",
+    "location": "Lagos",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "/images/manchester.webp",
+    "location": "Lekki",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "/images/liverpool.webp",
+    "location": "Ikeja",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "/images/york.webp",
+    "location": "Ibadan",
+    "distance": "4-hour drive"
+  },
+  {
+    "img": "/images/cardiff.webp",
+    "location": "Enugu",
+    "distance": "30-minute drive"
+  },
+  {
+    "img": "/images/newquay.webp",
+    "location": "Abuja",
+    "distance": "6-hour drive"
+  },
+  {
+    "img": "/images/hove.webp",
+    "location": "Ikorodu",
+    "distance": "8-hour drive"
+  },
+  {
+    "img": "/images/birkenhead.webp",
+    "location": "Katsina",
+    "distance": "2-hour drive"
+  }
+]
